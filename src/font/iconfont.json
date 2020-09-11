@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2273360",
+      "name": "照相机",
+      "font_class": "shumajiadian",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    },
+    {
+      "icon_id": "17029801",
+      "name": "2组织-项目管理",
+      "font_class": "2zuzhi-xiangmuguanli",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    }
+  ]
+}
